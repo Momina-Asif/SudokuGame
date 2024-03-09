@@ -1,0 +1,26 @@
+﻿  sudoku2.cpp
+C:\Users\walee\source\repos\Sudoku\Sudoku\sudoku2.cpp(337,38): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\walee\source\repos\Sudoku\Sudoku\sudoku2.cpp(350,30): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\walee\source\repos\Sudoku\Sudoku\sudoku2.cpp(380,75): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\walee\source\repos\Sudoku\Sudoku\sudoku2.cpp(380,61): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\walee\source\repos\Sudoku\Sudoku\sudoku2.cpp(390,80): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\walee\source\repos\Sudoku\Sudoku\sudoku2.cpp(400,64): warning C4244: 'argument': conversion from 'int' to 'T', possible loss of data
+          with
+          [
+              T=float
+          ]
+C:\Users\walee\source\repos\Sudoku\Sudoku\sudoku2.cpp(2153,12): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\walee\source\repos\Sudoku\Sudoku\sudoku2.cpp(2227,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  Sudoku.vcxproj -> C:\Users\walee\source\repos\Sudoku\x64\Debug\Sudoku.exe
